@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+# Privacy Policy
+ 
+Idle Conquer Privacy Policy
+Last Updated 10/15/2021
+ 
+ReZoom Game Studio built the Idle Conquer app as an Ad Supported-Free app. This SERVICE is provided by ReZoom Game Studio at no cost and is intended for use as is.
+ 
+This page is used to inform app users regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our app.
+ 
+If you choose to use our app, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the app. We will not use or share your information with anyone except as described in this Privacy Policy.
+ 
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Idle Conquer unless otherwise defined in this Privacy Policy.
+ 
 
-You can use the [editor on GitHub](https://github.com/ReZoomGS/idleconquer/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+# Information Collection and Use
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
 
-### Markdown
+The app does use third party services that may collect information used to identify you.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Link to privacy policy of third party service providers used by the app
 
-```markdown
-Syntax highlighted code block
+•	Facebook
+•	GameAnalytics
 
-# Header 1
-## Header 2
-### Header 3
+ 
+# Automatically Collected Information
+ 
+In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+# Automatic Data Collection and Advertising
 
-**Bold** and _Italic_ and `Code` text
+We work with advertisers and third party advertising networks, who need to know how you interact with advertising provided in the Application which helps us keep the the Application free. Advertisers and advertising networks use some of the information collected by the Application, including, but not limited to, the unique identification ID and Android advertising ID of your mobile device. These third parties may also obtain anonymous information about other applications you’ve downloaded to your mobile device, the mobile websites you visit, your non-precise location information (e.g., your zip code), and other non- precise location information in order to help analyse and serve anonymous targeted advertising on the Application and elsewhere.
+We may also share information you have provided in order to enable our partners to append other available information about you for analysis or advertising related use.
+ 
+# In-App Purchases
 
-[Link](url) and ![Image](src)
-```
+Our app enable in-app purchases. We do not process payments for in-app purchases nor have access to your credit card information.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Payment transactions for in-app purchases are completed through the app store via your Google Play account. Any post-purchase processes are controlled by the Google stores and are subject to specific terms of such Google stores. Please review privacy policy and terms of service of your Google stores.
 
-### Jekyll Themes
+# Log Data
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ReZoomGS/idleconquer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilising our Service, the time and date of your use of the Service, and other statistics.
 
-### Support or Contact
+# Service Providers
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+We may employ third-party companies and individuals due to the following reasons:
+•	To facilitate our Service;
+•	To provide the Service on our behalf;
+•	To perform Service-related services; or
+•	To assist us in analysing how our Service is used.
+We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+# Security
+
+Your information is protected and secure, all the good practices are followed to make sure that no one can access your private information.
+
+# Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+ 
+# Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+# Contact Us
+
+If you have any questions or suggestions please write to rezoomgs@gmail.com
